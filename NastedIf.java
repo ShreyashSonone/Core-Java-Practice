@@ -8,7 +8,7 @@ class NestedIf
 {
 	static void takeAdmission()
 	{
-		float totalMarks=73.9f;
+		float totalMarks=75.9f;
 		float pcmMarks=87.9f;
 		if(totalMarks>75)
 		{
