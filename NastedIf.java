@@ -8,8 +8,10 @@ class NestedIf
 {
 	static void takeAdmission()
 	{
-		float totalMarks=75.9f;
+		float totalMarks=73.9f;
 		float pcmMarks=87.9f;
+		System.out.println(" Total Marks" +totalMarks);
+		System.out.println(" PCM Marks =" +pcmMarks);
 		if(totalMarks>75)
 		{
 			if(pcmMarks>85)
